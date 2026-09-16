@@ -1,4 +1,5 @@
 # mi primer proyecto con git
 ##Mi primer Proyecto
 
-##Comandos basicos de git
+###Comandos basicos de git
+###Christopher Toa
